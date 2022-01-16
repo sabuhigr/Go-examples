@@ -1,5 +1,5 @@
 # Go-examples
-#### This GitHub repository contains code example for those who are new to go programming. 
+#### This GitHub repository contains code examples for those who are new to go programming. 
 
 ![This is an image](https://www.softwebsolutions.com/wp-content/uploads/2020/10/golang-Programing.jpg)
 
