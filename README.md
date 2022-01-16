@@ -16,7 +16,7 @@ In our JWT implementation in Golang:
 - `/login` -> endpoint uses for authentication and authorization client.Client first have to request to /login endpoint with the given username:password with JSON format.
 - `/home`  -> for Hello, user.
 
-If client gets:
+All response codes using like below:
 - 200 - [OK]
 - 400 - [Bad Request]
 - 401 - [Unauthorized]
