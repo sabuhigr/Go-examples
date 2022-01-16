@@ -19,5 +19,5 @@ In our JWT implementation in Golang:
 If client gets:
 - 200 - [OK]
 - 400 - [Bad Request]
-- 401 - [Unathorized]
+- 401 - [Unauthorized]
 
